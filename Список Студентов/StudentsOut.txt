@@ -1,0 +1,16 @@
+	Список студентов
+
+Начало:
+
+Имя - Sidorov
+Средний балл - 3.75
+1 mathematics(4);2 physics(4);3 geography(5);4 history(2);
+Имя - Petrov
+Средний балл - 3.75
+1 mathematics(4);2 physics(4);3 geography(5);4 history(2);
+Имя - ivanov
+Средний балл - 4.33333
+1 mathematics(4);2 physics(4);3 geography(5);
+
+Конец
+
